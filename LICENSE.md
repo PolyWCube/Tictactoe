@@ -1,4 +1,4 @@
-#Dual License Agreement for this program (the "Program")
+# Dual License Agreement for this program (the "Program")
 
 This license does not apply to any files, data, images, videos, or other content created or generated using the Software (the "Content"). Users are free to use, distribute, and commercialize such output without restriction, regardless of whether they are using the Software under the Non-Commercial Use or Commercial Use terms of this license.
 
